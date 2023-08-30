@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript and Modules and Me"
+title: Javascript and Modules and Me
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
 published: true
