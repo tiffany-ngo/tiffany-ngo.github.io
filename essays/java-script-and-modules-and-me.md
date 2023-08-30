@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Reflection on Javascript and Modules"
+title: Javascript and Modules and Me"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-29
 published: true
@@ -12,7 +12,7 @@ labels:
    Javascript remains as one of the most used programming languages regarding the design of websites, as it has many features that give it a great deal of versatility for programmers, as well as convenience for the users accessing those websites. This will be my first formal course in Javascript, and hopefully the skills and knowledge I learn here will help me better understand programming as a whole. 
 
 
-## Javascript Impressions
+## Javascript first impressions
 
 
    As the only other programming language that I have any experience with is Java, the differences between it and Javascript do not seem to be as apparent to me, other than some differences in syntax. I am sure that my perspective of it will change and grow as I learn and use it more and as I begin to properly start making my own webpages, but that remains to be seen. However, I do know from readings and prior knowledge that Javascript is commonly used for most major websites, as it does not have to be compiled beforehand, giving it advantages in the features that those websites can have. This makes it a necessity to learn, as it is one of the many skills I should have by the time I start looking for a career. 
@@ -24,7 +24,7 @@ labels:
    Due to all this, although I do not have a strong grasp on Javascript yet nor can I properly explain the nuances of the language from the perspective of a seasoned software engineer, Javascript seems to be a powerful language for software engineering, if not for its uses and capabilities, then for its opportunity to be used as a learning experience.
 
 
-## Course Overview
+## A look at the course
 
 
    As for the approach the instructors have been taking for the course itself, athletic software engineering is certainly a different experience than the ones I have had in the other courses I have taken. Honestly, I am much more used to doing one semi-complicated assignment per week or even one every two weeks, so to suddenly have so much to do every day is going to take some getting used to. My honest first thoughts are that I firmly believe that sometime during this semester, I will inevitably burn out and the quality of my assignment submissions are going to decline dramatically, assuming I do not just stop submitting assignments altogether. There just does not seem to be much time or room for a break, which is going to be a strain on me, especially with the other courses that I am taking at the same time. Suffice to say, I do not think this course will be enjoyable. 
