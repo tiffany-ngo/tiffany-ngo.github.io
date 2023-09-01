@@ -11,6 +11,7 @@ labels:
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/coffee.png">
+
 ## Creation & Coding
 
 Creation is skill that comes in a multitude of flavors, ranging from painting, to woodworking, to architecture. The idea of creating something, and breathing life into something that others will consume and use and entertain themselves with is an appealing idea to many, as it is basically a way of leaving one's legacy on the world. 
