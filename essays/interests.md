@@ -11,15 +11,10 @@ labels:
 ---
 
 COFFEE
-
 GOOD
-
 I 
-
 CRY
-
 1000X
-
 E
 
 <img width="300px" class="rounded float-start pe-4" src="../img/coffee.png">
