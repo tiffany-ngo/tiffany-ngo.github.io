@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/colorguard.png
 title: "Color Guard"
-date: 2023-08-31
+date: 2014-2020
 published: true
 labels:
   - Extracurricular
