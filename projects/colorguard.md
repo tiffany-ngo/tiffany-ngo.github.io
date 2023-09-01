@@ -1,14 +1,13 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/colorguard.png
+title: "Color Guard"
+date: 2023-08-31
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Extracurricular
+summary: "My experience in color guard."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
