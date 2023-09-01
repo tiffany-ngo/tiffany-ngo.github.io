@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/carddealer.png
 title: "Card Dealer"
 date: 2021
 published: true
