@@ -8,7 +8,7 @@ published: true
 labels:
   - Healthcare
   - Extracurricular
-summary: "My experience participating in a HOSA competition"
+summary: "My team's entry in a HOSA competition"
 ---
 
 HOSA, standing for Health Occupations Students of America, is an orginization that specializes in helping students who plan on entering various healthcare positions to better prepare for their future professional careers. One such way of doing so is in the form of competitive events where students present to a panel of real healthcare professionals in a 3 day long event.
