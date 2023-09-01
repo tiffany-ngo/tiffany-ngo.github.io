@@ -10,7 +10,7 @@ labels:
 summary: "A basic coding project that dealt cards"
 ---
 
-<img class="img-fluid" src="../img/cardman.png">
+<img class="img-fluid" src="../img/cardman.jpg">
 
 This is a basic coding project that I made in my spare time with the help of a friend when I was messing around with Java for the first time, before I eventually decided to pursue computer science as a major. It was meant to be a game of Go Fish, but I couldn't figure out some coding issues at the time, and settled for creating just the code for dealing cards.  
 
