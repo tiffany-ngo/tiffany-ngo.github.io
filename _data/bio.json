@@ -10,32 +10,31 @@
     "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "tiffany-ngo", "url": "http://github.com/tiffany-ngo" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/tiffany-ngo-615a2b289" }
+      { "network": "linkedin", "username": "tiffanyngo", "url": "https://www.linkedin.com/in/tiffany-ngo-615a2b289" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Video Game Development" }
+    { "name": "Video Game Development" },
+    { "name": "Digital Art" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "startDate": "2022-08-21",
+      "endDate": "Present"
     }
   ],
   "work": [
