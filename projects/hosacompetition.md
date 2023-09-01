@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hosapeople.png
+image: img/hosa.png
 title: "HOSA Competition"
 date: 2016
 published: true
@@ -17,3 +17,4 @@ Back when I was studying to enter the medical field, I entered one of the HOSA c
 
 This event gave me a formal experience in seeing how I operate under a time limit with a team, and allowed me to see how well I stand up to that pressure. Although I would change career paths, it was still a valuable experience working with others.
 
+<img class="img-fluid" src="../img/hosapeople.png">
