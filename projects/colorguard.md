@@ -7,7 +7,7 @@ date: 2014-2020
 published: true
 labels:
   - Extracurricular
-summary: "My experience in color guard."
+summary: "My experience in color guard"
 ---
 
 I did color guard from high school to college for about six years, and it gave me a comprehensive look into how to cooperate and communicate with my peers in a team-based setting. 
