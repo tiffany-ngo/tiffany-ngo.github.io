@@ -10,6 +10,8 @@ labels:
   - Learning
 ---
 
+<img width="100px" class="rounded float-start pe-4" src="../img/coffee.png">
+
 ## Creation & Coding
 
 Creation is skill that comes in a multitude of flavors, ranging from painting, to woodworking, to architecture. The idea of creating something, and breathing life into something that others will consume and use and entertain themselves with is an appealing idea to many, as it is basically a way of leaving one's legacy on the world. 
@@ -19,8 +21,3 @@ I guess in my case, my form of creation of interest is coding. It started when I
 ## Software engineering, a stepping stone
 
 Software engineering is a ways of practicing this creation of code. Designing websites and figuring out how to best implement it and approach any problems that I encounter in my code is a means of preparing me for my future career. There's something just so satisfying about seeing something that I've spent working on and coding for the past hours or days or weeks come to life, and code is no different. I hope to learn how to collaborate with others in code, something we seem to be focusing on quite a bit in class so far, and see how to better work together with others and communicate when it comes to the development of code.
-
-The cup of coffee isn't related, I just wanted it here for aesthetic reasons.
-
-<img width="100px" class="rounded float-start pe-4" src="../img/coffee.png">
-
