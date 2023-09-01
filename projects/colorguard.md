@@ -10,6 +10,8 @@ labels:
 summary: "My experience in color guard"
 ---
 
+<img class="img-fluid" src="../img/flags.jpeg">
+
 I did color guard from high school to college for about six years, and it gave me a comprehensive look into how to cooperate and communicate with my peers in a team-based setting. 
 
 Color guard requires highly specific timing. Being off by even half a second is noticeable when one is waving around a brightly colored flag or rifle, and so being off by even half a second makes you and your entire team liable to getting yelled and swore at by your very, very upset guard instructor who's done this for longer than you've been alive. Repeat this with about 30-40 other color guard members, and it becomes clear that communciation is key to this activity. (I swear to god that just typing this is giving me flashbacks.)
