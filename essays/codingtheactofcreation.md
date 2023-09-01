@@ -20,4 +20,6 @@ I guess in my case, my form of creation of interest is coding. It started when I
 
 ## Software engineering, a stepping stone
 
-Software engineering is a ways of practicing this creation of code. Designing websites and figuring out how to best implement it and approach any problems that I encounter in my code is a means of preparing me for my future career. There's something just so satisfying about seeing something that I've spent working on and coding for the past hours or days or weeks come to life, and code is no different. I hope to learn how to collaborate with others in code, something we seem to be focusing on quite a bit in class so far, and see how to better work together with others and communicate when it comes to the development of code.
+Software engineering is a ways of practicing this creation of code. Designing websites and figuring out how to best implement it and approach any problems that I encounter in my code is a means of preparing me for my future career. There's something just so satisfying about seeing something that I've spent working on and coding for the past hours or days or weeks come to life, and code is no different. 
+
+I hope to learn how to collaborate with others in code, something we seem to be focusing on quite a bit in class so far, and see how to better work together with others and communicate when it comes to the development of code. After all, creating code is not an individual effort most of the time.
