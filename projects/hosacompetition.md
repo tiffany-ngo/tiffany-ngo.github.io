@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+image: img/hosa.jpg
+title: "HOSA Competition"
+date: 2016
 published: true
 labels:
   - Robotics
