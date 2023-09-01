@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Coding: the act of creation"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
 published: true
