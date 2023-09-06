@@ -39,4 +39,4 @@ labels:
 
    From these examples, it can be seen how effective asking questions the “smart way” is, and how it increases the chances that you’ll receive a higher quality answer from someone who knows what they’re doing in a timely manner. 
 
-   Honestly though, Raymond’s article is basically internet 101 stuff, and should be common sense to anyone who’s used a computer throughout their life (also the dude kind of comes off as annoying and pompous). Still, it’s an effective demonstration of how being clear, direct, and concise in your communications can lead to you likewise receiving the same quality of information in a response.
+   Honestly though, Raymond’s article is basically internet 101 stuff, and should be common sense to anyone who’s used a computer throughout their life (also the dude kind of comes off as annoying and pompous). Still, it’s an effective demonstration of how being clear, direct, and concise in your communications can lead to you likewise receiving the same quality of information in response.
