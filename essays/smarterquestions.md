@@ -23,7 +23,7 @@ labels:
 
 ## Clear questions, clear answers…
 
-   Stack Overflow is one such forum dedicated to developers who want to ask for technical advice. Here, someone has asked the question of [“Why is processing a sorted array faster than processing an unsorted array?”] (https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array), where they’re confused about the huge gap between the sorting times of a sorted and unsorted array. 
+   Stack Overflow is one such forum dedicated to developers who want to ask for technical advice. Here, someone has asked the question of [“Why is processing a sorted array faster than processing an unsorted array?”](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array), where they’re confused about the huge gap between the sorting times of a sorted and unsorted array. 
 
    This is an example of someone asking a question in a “smart way”, where they provide formatted code as an example of what they’re talking about, provide a clear explanation of what they’re confused by, talk about why they think it’s happening and what they’ve done, and then give two questions at the very end with bullet points so that anyone who reads the post knows exactly what they want answered.
 
@@ -31,7 +31,7 @@ labels:
 
 ## …and the opposite of that
 
-   On the other hand, in [this] (https://stackoverflow.com/questions/77048619/module-parse-failed-unexpected-token-10210) Stack Overflow post, the poster simply provides the error code that they’re getting, the one respective line of code that is failing, and says that “I am trying npm start”. 
+   On the other hand, in [this](https://stackoverflow.com/questions/77048619/module-parse-failed-unexpected-token-10210) Stack Overflow post, the poster simply provides the error code that they’re getting, the one respective line of code that is failing, and says that “I am trying npm start”. 
 
    Although I am not familiar with what a npm start is, without the rest of the code and knowledge of what they’re attempting to do, I imagine that it would be difficult for other more experienced people to provide help without having to ask for more clarifying information. This would delay the help that they get and probably wastes time with what could have been clarified before. This is also evidenced by the lack of responses to that post. 
 
