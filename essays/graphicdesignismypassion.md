@@ -10,8 +10,6 @@ labels:
   - Bootstrap
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/coffee.png">
-
 ## Webpage design personally hates me
 
 I'm not going to lie, it always bothered me when I ran into bad-looking UI on the websites or the video games I played. I always thought to myself "Oh, there's no way it's that hard to make something that actually looks decent, right? Especially with all the examples everywhere of actually pretty menus and stuff, how are people still making stuff that looks like it's from the early 2000's?" 
@@ -22,7 +20,7 @@ All the times I got annoyed at Word for messing up the format and layout of my p
 
 Try to include a column? Your images? Gone. The text? Halfway across the world. It almost seems spiteful at times, like some sort of malicious spirit. I'd be more upset if it honestly wasn't kind of funny.
 
-<img class="rounded float-start pe-4" src="../img/surfing.png">
+<img class="rounded float-start pe-4" src="../img/surfing.png" width="1200px">
 
 Just look at this. What do I even do with this???
 
@@ -36,8 +34,8 @@ It also allows for students who are still learning to have some basic formatting
 
 For example, here are my attempts at putting together a recreation of a website. 
 
-<img class="rounded float-start pe-4" src="../img/main.png">
+<img class="rounded float-start pe-4" src="../img/main.png" width="1200px">
 
-<img class="rounded float-start pe-4" src="../img/footer.png">
+<img class="rounded float-start pe-4" src="../img/footer.png" width="1200px">
 
 Although the recreation is by no means perfect, it's still miles ahead of where I started, and a good example of how a little help comes a long way.
