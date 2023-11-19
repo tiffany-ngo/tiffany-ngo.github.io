@@ -60,7 +60,7 @@ Documenting code
 
 AI tools aided in the initial stages of code documentation by generating boilerplate text. However, the final documentation required a human touch to provide context, clarity, and alignment with project-specific requirements.
 
-Quality assurance e.g., “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+Quality assurance
 
 AI was effective in identifying syntax errors and suggesting fixes during quality assurance. However, deeper analysis and understanding were needed to address complex issues and optimize code performance.
 
