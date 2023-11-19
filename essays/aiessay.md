@@ -16,7 +16,7 @@ The integration of Artificial Intelligence (AI) in education has brought about t
 
 ## Personal Experience with AI
 
-- Experience WODs
+Experience WODs
 
 For Experience WODs, I experimented with ChatGPT to generate code snippets for specific functional programming tasks. While ChatGPT provided a starting point, refining the code to meet the exact requirements proved time-consuming. The benefit lay in overcoming the initial inertia, but the cost was the need for substantial trial and error.
 
