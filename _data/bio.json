@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Tiffany Ngo",
+    "label": "Student",
+    "picture": "https://github.com/tiffany-ngo.png",
+    "email": "ngotiff@hawaii.edu",
+    "phone": "808-xxx-xxxx",
+    "website": "https://tiffany-ngo.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "tiffany-ngo", "url": "http://github.com/tiffany-ngo" },
+      { "network": "linkedin", "username": "tiffanyngo", "url": "https://www.linkedin.com/in/tiffany-ngo-615a2b289" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Video Game Development" },
+    { "name": "Digital Art" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    { 
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Biology",
+      "studyType": "B.S.",
+      "startDate": "2016-08-21",
+      "endDate": "2020-05-13"
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-21",
+      "endDate": "Present"
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Student Housing Services",
+      "position": "Custodial Assistant",
+      "startDate": "2019-07-06",
+      "endDate": "2019-12-23",
+      "summary": "Prepared dorms for student move-in, furniture moving, and misc. cleaning tasks",
+      "highlights": [
+        "Facility cleaning, care, and maintenance of student housing dormitories",
+        "Communicated with faculty/staff, students, co-workers, and general public"
+      ]
+    },
+    {
+      "company": "Ross",
+      "position": "Overnight Stock Associate",
+      "startDate": "2021-09-21",
+      "endDate": "2022-06-15",
+      "summary": "Stocked merchandise",
+      "highlights": [
+        "Worked with coworkers on a conveyor belt to move products to ground floor",
+        "Stocked shelves with a strict time limit"
+      ]
+    },
+    {
+      "company": "Target",
+      "position": "Overnight Warehouse Worker",
+      "startDate": "2023-06-03",
+      "endDate": "Current",
+      "summary": "Moved merchandise from shipping trucks",
+      "highlights": [
+        "Worked with coworkers on a conveyor belt to move products from shipping trucks"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "UH Manoa Rainbow Alliance",
+      "position": "Member",
+      "startDate": "2019-12-19",
+      "endDate": "Present",
+      "summary": "Assisted in club activities and events",
+      "highlights": [
+        "Volunteered at large community events"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
