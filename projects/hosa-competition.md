@@ -15,7 +15,7 @@ summary: "My team's entry in a HOSA competition."
 
 ## Overview
 
-HOSA, standing for Health Occupations Students of America, is an organization that specializes in helping students who plan on entering various healthcare positions to better prepare for their future professional careers. One such way of doing so is in the form of competitive events where students present to a panel of real healthcare professionals in a 3 day long event.
+[HOSA](https://hosa.org/), standing for Health Occupations Students of America, is an organization that specializes in helping students who plan on entering various healthcare positions to better prepare for their future professional careers. One such way of doing so is in the form of competitive events where students present to a panel of real healthcare professionals in a 3 day long event.
 
 ## The event
 
