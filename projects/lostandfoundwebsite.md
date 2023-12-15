@@ -46,3 +46,6 @@ Other responsibilities of mine included adding to and updating the project's [ho
 
 ## A good lesson to learn
 
+I'm honestly thankful for the opportunity I got to work on the website, as this was literally my first time working together with other students on a project in regards to coding and software development. It provided invaluable experience in managing my time and learning how to cooperate with others in this field, and gave me the opportunity to put the knowledge that I had gained in ICS 314 to use. 
+
+It was definitely a learning experience when it comes to working with others with code, and allowed me the experience of how coding goes when you're working on code from several other people. It's challenging and confusing at times, but it's still something that I had to interact with at some point, so better now rather than later.
