@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Movie Genres and Design Patterns
+title: Movie Genres and Design Patterns, a Forbidden Romance
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-29
 published: true
