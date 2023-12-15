@@ -16,4 +16,4 @@ Each card was an array that consisted of what suit it was (hearts, diamonds, spa
 
 From this, I learned how to code for what was basically the first time in Java, and it gave me experience in trying to wrap my head around how code works and how to approach problems when I didn't necessarily know how to implement what I wanted.
 
-<img class="img-fluid" src="../img/cardman.jpg">
+<img class="img-fluid" src="../img/projects/card-dealer/cardman.jpg">

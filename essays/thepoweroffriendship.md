@@ -11,6 +11,8 @@ labels:
   - Web Application Design
 ---
 
+<img class="img-fluid" src="../img/essays/thepoweroffriendship/teamwork.jpeg">
+
 ## ICS 314 draws to an end
 
 As we approach the end of the semester, it is now appropriate to reflect on everything we've done and learned in ICS 314, or at the very least, reflect on my key takeaways from it. 
@@ -21,7 +23,9 @@ However, it can also be said that it's been a rather fulfilling time spent learn
 
 ## Teamwork makes the dream work
 
-One of the assignments in the course, for example, included working together with a group of people and putting all the knowledge we've learned regarding web application development to construct a website meant to fulfill some purpose. For example, the website my group worked on was a Lost and Found site meant to help students locate their missing items. You can learn more about [here](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array), if you want. In doing so, we all engaged in some of the key concepts the course wished to teach us about.
+One of the assignments in the course, for example, included working together with a group of people and putting all the knowledge we've learned regarding web application development to construct a website meant to fulfill some purpose. For example, the website my group worked on was a Lost and Found site meant to help students locate their missing items. You can learn more about it [here](https://tiffany-ngo.github.io/projects/lostandfoundwebsite.html), if you want. In doing so, we all engaged in some of the key concepts the course wished to teach us about.
+
+<img class="rounded pe-4" src="../img/projects/website-project/website.png" width="1200px">
 
 One of these concepts, open source software development, is in regards to learning about how to develop something in conjunction with several other people, all putting in their own individual efforts to work out problems, add features, and enhance its functionality. Another, coding standards, is about writing your code in such a way that it's easily understood what your code is doing, so that anyone who looks at your code is not as confused, which is important for cohesion. Design patterns are a structured approach to addressing standard problems that developers will encounter, and it serves as a sort of template that allows anyone reading their code to understand what they're trying to do.
 

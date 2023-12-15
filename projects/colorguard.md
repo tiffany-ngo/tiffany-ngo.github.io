@@ -16,4 +16,4 @@ Color guard requires highly specific timing. Being off by even half a second is 
 
 To succeed, it was necessary for everyone to coordinate with everyone else to ensure that we were all on time, that we all knew the choreography and dance, and that we were able to stay in sync with not just each other, but the rest of the marching band as a whole. This requires a lot of talking, a lot of critiquing, and a lot of social skills to ensure that there were no hurt feelings and that everyone knew what we were doing while also maintaining our morale. Trust me, it was very easy to lose motivation when it feels like you're being yelled at every single day of practice. So by the end of it, I was better equipped to working, talking, and socializing with other members of a team in a clear, comprehensive way such that everyone comes out on top and that we all succeed.
 
-<img class="img-fluid" src="../img/flags.jpeg">
+<img class="img-fluid" src="../img/projects/colorguard/flags.jpeg">
