@@ -14,4 +14,3 @@ labels:
 summary: "A lost and found website that my group developed for ICS 314."
 ---
 
-yay
