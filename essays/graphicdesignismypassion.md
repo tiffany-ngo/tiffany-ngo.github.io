@@ -16,7 +16,7 @@ I'm not going to lie, it always bothered me when I ran into bad-looking UI on th
 
 As it turns out, it's not only hard, it's frustratingly annoying.
 
-All the times I got annoyed at Word for messing up the format and layout of my papers whenever I tried to shift an image around did *not* prepare me for how much more annoying it is when trying to figure out how to place an element on a page.
+I'm finally learning about website development and CSS elements, and all the times I got annoyed at Word for messing up the format and layout of my papers whenever I tried to shift an image around did *not* prepare me for how much more annoying it is when trying to figure out how to place an element on a page.
 
 Try to include a column? Your images? Gone. The text? Halfway across the world. It almost seems spiteful at times, like some sort of malicious spirit. I'd be more upset if it honestly wasn't kind of funny.
 
