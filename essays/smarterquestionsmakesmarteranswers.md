@@ -35,7 +35,7 @@ labels:
 
 ## …and the opposite of that
 
-   On the other hand, in [this](https://stackoverflow.com/questions/77048619/module-parse-failed-unexpected-token-10210) Stack Overflow post, the poster simply provides the error code that they’re getting, the one respective line of code that is failing, and says that “I am trying npm start”. 
+   On the other hand, in [this](https://stackoverflow.com/questions/77664655/run-my-maui-application-how-to-resolve) Stack Overflow post, the poster simply provides an image of the error that they’re getting, the error line, and asks the question "How to resolve?". 
 
    Without the rest of the code and knowledge of what they’re attempting to do, I imagine that it would be difficult for other more experienced people to provide help without having to ask for more clarifying information. This would delay the help that they get and wastes time with what probably could have been clarified before. This is also evidenced by the lack of responses to that post. 
 
