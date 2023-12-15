@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hosa.png
+image: img/projects/hosa-competition/hosa.png
 title: "HOSA Competition"
 date: 2016
 published: true

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/colorguard.jpeg
+image: img/projects/colorguard/colorguard.jpeg
 title: "Color Guard"
 date: 2014-2020
 published: true
