@@ -23,9 +23,9 @@ labels:
 
    Clear, concise communication is basically the forefront of his advice, with him detailing how to ask for help, the information you should provide (what you understand and what you’ve tried), and how to format everything properly. Other advice he provides is knowing where to post your requests for help and understanding the etiquette of the boards that you’re posting in.
 
-## Clear questions, clear answers…
-
 <img class="img-fluid" src="../img/essays/smarterquestionsmakesmarteranswers/help.png">
+
+## Clear questions, clear answers…
 
    Stack Overflow is one such forum dedicated to developers who want to ask for technical advice. Here, someone has asked the question of [“Why is processing a sorted array faster than processing an unsorted array?”](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array), where they’re confused about the huge gap between the sorting times of a sorted and unsorted array. 
 
