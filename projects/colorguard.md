@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/colorguard/colorguard.jpeg
+image: ![colorguard.jpeg](..%2Fimg%2Fprojects%2Fcolorguard%2Fcolorguard.jpeg)
 title: "Color Guard"
 date: 2014-2020
 published: true
