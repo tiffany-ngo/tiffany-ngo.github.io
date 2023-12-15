@@ -8,7 +8,7 @@ published: true
 labels:
   - Healthcare
   - Extracurricular
-summary: "My team's entry in a HOSA competition"
+summary: "My team's entry in a HOSA competition."
 ---
 
 <img class="img-fluid" src="../img/projects/hosa-competition/hosalogo.png">

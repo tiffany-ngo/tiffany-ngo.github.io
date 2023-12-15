@@ -7,7 +7,7 @@ date: 2014-2020
 published: true
 labels:
   - Extracurricular
-summary: "My experience in color guard"
+summary: "My experience in color guard."
 ---
 
 ## Timing and teamwork
