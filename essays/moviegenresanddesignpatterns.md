@@ -18,9 +18,17 @@ Give me a second, I’m googling that for myself.
 
 So, design patterns are a series of methods that developers use to address standard problems that they will run into in their career. Different software engineers may have different methods of addressing the unique problems that they run into, but ultimately it serves as a template of sorts for allowing them and anyone reading their code to have an immediate sort of understanding of how the code was put together, improving readability and comprehension of the code. 
 
+One such design pattern includes the prototype pattern. Prototypes are objects that can be accessed by other objects through a prototype chain, which is useful for sharing properties among objects of the same type.  Since many objects of the same type are typically created in applications, this is particularly useful for ensuring the same level of functionality expected of the objects, especially in a team-based development setting.
+
+<img class="img-fluid" src="../img/essays/moviegenresanddesignpatterns/prototypes.png">
+
+## A comparison to genres
+
 However, that’s a boring way of explaining it, so instead, think of it as similar to a movie genre.
 
 When someone thinks of a particular movie genre, they immediately have some understanding of what exactly that movie will contain, what it will be about, and what they can expect. A horror movie (my favorite genre <3) typically brings to mind a slasher running around, targeting young college students, with plenty of jumpscares, gore, and death. A rom-com? A cheesy flick about some bumbling dude falling in love with some lady who’s out of his league, only for them to realize their love in the final moments of the movie after plenty of misadventures, misunderstandings, and curious subplots. Action? A sweaty dude running around gunning people down with plenty of violence and explosions in revenge after losing the love of his life 10 minutes into the movie.
+
+<img class="img-fluid" src="../img/essays/moviegenresanddesignpatterns/scream.png">
 
 Everyone’s got some understanding of the various tropes that compose these movies from the ones that they have watched throughout their lives, allowing them to vaguely know what they’re getting into when they buy that movie ticket.
 

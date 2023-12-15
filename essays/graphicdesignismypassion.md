@@ -26,7 +26,7 @@ Just look at this. What do I even do with this???
 
 ## Standardized design
 
-Despite all this, learning Bootstrap 5 has been valuable in my learning of web design. One of the greatest strengths of it is that it provides software engineers a framework that provides them with some baseline tools to help standardize everything.
+Despite all this, learning [Bootstrap 5](https://getbootstrap.com/) has been valuable in my learning of web design. One of the greatest strengths of it is that it provides software engineers a framework that provides them with some baseline tools to help standardize everything.
 
 That way, software engineers can take a look at a website's internal code, see that it's made with Bootstrap, and have a better understanding of how everything is put together and made. With that understanding, it makes it even easier to reference for their own web design, which is especially important for students like me who are still trying to figure out how to put everything together on a base level. 
 
