@@ -11,7 +11,13 @@ labels:
 summary: "My team's entry in a HOSA competition"
 ---
 
+<img class="img-fluid" src="../img/projects/hosa-competition/hosalogo.png">
+
+## Overview
+
 HOSA, standing for Health Occupations Students of America, is an orginization that specializes in helping students who plan on entering various healthcare positions to better prepare for their future professional careers. One such way of doing so is in the form of competitive events where students present to a panel of real healthcare professionals in a 3 day long event.
+
+## The event
 
 Back when I was studying to enter the medical field, I entered one of the HOSA competitions. My team and I were given multiple prompts to respond to related to various situations that one would have to deal with in the medical field, and we were given a 12 hour period to create a presentation as to how we would respond to and address each one of these prompts according to how a real medical professional would, following medical guidelines. We split up the work, and I worked on my own prompt before we switched off and looked over each other's work in a different prompt, offering corrections and critique. 
 
