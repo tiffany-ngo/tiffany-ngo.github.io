@@ -10,6 +10,8 @@ labels:
   - Coding
 ---
 
+<img class="img-fluid" src="../img/essays/moviegenresanddesignpatterns/theatre.png">
+
 ## What are design patterns???
 
 Give me a second, I’m googling that for myself.
