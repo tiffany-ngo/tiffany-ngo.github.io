@@ -4,7 +4,7 @@ type: essay
 title: "AI, My Best Friend"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-20
-published: true
+published: false
 labels:
   - AI
   - Education
@@ -12,7 +12,7 @@ labels:
 
 ## Introduction
 
-AI is a new emerging tool that is continously being developed and updated, and it will simply continue to grow. It certainly isn't going anywhere, and its abililty to provide (near) accurate solutions and answers to any of your problems, or at the very least provide a starting point in figuring it out, certainly hasn't gone unnoticed by students. Students are notorious for figuring out the easiest, quickest, and simplest way of figuring out their homework, and AI is no exception, leaving schools unsure of their stances and approach to handling this usage of AI.
+AI is a new emerging tool that is continuously being developed and updated, and it will simply continue to grow. It certainly isn't going anywhere, and its ability to provide (near) accurate solutions and answers to any of your problems, or at the very least provide a starting point in figuring it out, certainly hasn't gone unnoticed by students. Students are notorious for figuring out the easiest, quickest, and simplest way of figuring out their homework, and AI is no exception, leaving schools unsure of their stances and approach to handling this usage of AI.
 
 For software engineering, AI provides students with starting points for basic code, allowing them a quick way of figuring out what exactly is wrong with their code. What used to take hours of frustration of guessing and double-checking can usually be solved relatively easy by running your code through an AI tool within a few minutes. ChatGPT for example, is a tool that I've used to provide a solution to something that was frustrating me. 
 
@@ -66,11 +66,11 @@ Despite this, it does serve its purpose more often than not, and so it is possib
 
 ## Comparative Analysis
 
-Traditional learning methods are simply better than AI. Usage of AI can quickly become an overeliance, hindering your ability to actually retain the information that you're trying to learn. It can be all too easy to use it to figure out a solution, go "aha!", act as if you've learned it in a meaningful way, then promptly forget about what you learned a week later. Traditional learning methods prevent this by ensuring that its repeated and hammered into your brain. However, it can be said that in classroom settings, it can be difficult to get the attention you need from your professor or TA with so many other students, making it difficult when you need help. AI provides a means of getting that help and enhancing your learning, as long as you appraoch it with the right mindset.
+Traditional learning methods are simply better than AI. Usage of AI can quickly become an overeliance, hindering your ability to actually retain the information that you're trying to learn. It can be all too easy to use it to figure out a solution, go "aha!", act as if you've learned it in a meaningful way, then promptly forget about what you learned a week later. Traditional learning methods prevent this by ensuring that its repeated and hammered into your brain. However, it can be said that in classroom settings, it can be difficult to get the attention you need from your professor or TA with so many other students, making it difficult when you need help. AI provides a means of getting that help and enhancing your learning, as long as you approach it with the right mindset.
 
 ## Future Considerations
 
-It's future role is one of a tool, a very advanced tool that can provide you with the answers and knowledge you seek in a way thats easily accessible by anyone with an internet connection. How to properly use it just needs to be taught, and it is an important note that it should be used with careful consideration of the sources that its analyzing from. There are ethical concerns that need to be considered, after all.
+It's future role is one of a tool, a very advanced tool that can provide you with the answers and knowledge you seek in a way that's easily accessible by anyone with an internet connection. How to properly use it just needs to be taught, and it is an important note that it should be used with careful consideration of the sources that its analyzing from. There are ethical concerns that need to be considered, after all.
 
 ## Conclusion
 

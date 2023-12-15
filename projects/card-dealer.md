@@ -4,7 +4,7 @@ type: project
 image: img/carddealer.png
 title: "Card Dealer"
 date: 2021
-published: true
+published: false
 labels:
   - Java
 summary: "A basic coding project that dealt cards"

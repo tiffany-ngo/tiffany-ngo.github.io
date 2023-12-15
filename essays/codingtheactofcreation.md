@@ -4,7 +4,7 @@ type: essay
 title: "Coding: the act of creation"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
