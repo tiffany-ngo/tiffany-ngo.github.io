@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![hosa.png](..%2Fimg%2Fprojects%2Fhosa-competition%2Fhosa.png)
+image: img/projects/hosa-competition/hosa.png
 title: "HOSA Competition"
 date: 2016
 published: true
